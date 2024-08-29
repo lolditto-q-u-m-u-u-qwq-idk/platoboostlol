@@ -100,7 +100,7 @@ end
 --About platoboostcheck_Keychecker
 --For example, if some users don't want to complete your task, you can sell them a key(the key generated in the dashboard), they just need to enter the key, and their id will be whitelisted
 --When the user has redeemed the key, the key will disappear, and the user will get the whitelist duration corresponding to the key you set
---You need to create a text box for the user to enter the key
+--You need to add a text box for the user to enter the key
 
 --That's all ：>
 
