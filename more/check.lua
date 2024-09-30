@@ -1836,7 +1836,7 @@ end
    end
  --how to use 
  --You need to make sure that the previous code is complete
- YourAccountid=8990
+ YourAccountid=0
   Yourhwid=gethwid()
   secret="your_secret_key"
   --Your configuration
